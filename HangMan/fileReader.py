@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
+# Wojciech Kosikowski (c) 2024
+
 import random
 from enum import Enum
-# Wojciech Kosikowski (c) 2024
+
 
 class Difficulty(Enum):
 	EASY = 1
