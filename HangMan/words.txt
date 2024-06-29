@@ -1,0 +1,6 @@
+h: Application
+n: Computer
+h: Mathematics
+e: House
+e: Desk
+n: Guitar
